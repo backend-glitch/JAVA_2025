@@ -3,9 +3,9 @@
 ---
 
 ## 📘 About This Repository
-This repository documents my **daily Java learning progress** — from the very basics to advanced topics and real-world projects.
+This repository documents my **daily Java learning progress** 👨‍💻🎯🚀
 
-Each folder or file here represents what I learned or practiced on a given day.
+
 
 > 🎯 Goal: To become confident in writing clean, efficient Java code while understanding core OOP and backend development concepts.
 
