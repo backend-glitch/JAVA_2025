@@ -7,11 +7,20 @@ class Human{
  private int age;
 private String name = "Rohan";
 
-// constructors
+//default constructor
+public Human(){
+age = 18;
+name = "unknown";
+}
+
+
+
+//parameterised
 Human(int age,String name){
  this.age = age;
  this.name = name;
 }
+
 public int getAge(){
     return age;
     
@@ -55,3 +64,4 @@ public class op_2 {
 
     }
 }
+// 5:50
