@@ -36,11 +36,13 @@ class B extends A{
 
 public class op_3 {
     
-    B obj = new B();
+    public static void main(String[] args){
+        
+   B obj = new B();
   
     new A().show(); // ANONYMOUS CLASS
+ }
 }
-
 
 /*
 public
