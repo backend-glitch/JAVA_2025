@@ -1,5 +1,9 @@
 <h1 align="center">☕ My Java Learning Journey 🚀</h1>
 
+![Last Commit](https://img.shields.io/github/last-commit/backend-glitch/JAVA_2025?style=flat-square)
+[![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+
+
 ---
 
 ## 📘 About This Repository
