@@ -37,7 +37,7 @@ class A{
 
 
 // interfaces
-
+// all variables by default in interface are final!!
  interface Comp {
 
     public void code();
